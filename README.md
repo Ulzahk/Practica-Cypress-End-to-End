@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PlatziPosts
 
 Proyecto de ejemplo para implementar tests en el curso de testing end-to-end con Cypress
@@ -32,6 +31,3 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-=======
-# Practica-Cypress-End-to-End
->>>>>>> 45890bc03bb06ccd3630675b63d3c78bfbdcac45
